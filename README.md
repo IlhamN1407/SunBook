@@ -6,8 +6,8 @@ Project UAS - Mata kuliah Pemograman WEB (Semester 3)
 - Zulyanto Ilham Nurrahman
 
 ## Screenshoot Website
-![](/Assets/screen/Capture.PNG)
-![](/Assets/screen/Capture2.PNG)
-![](/Assets/screen/Capture3.PNG)
-![](/Assets/screen/Capture4.PNG)
+![](/assets/screen/Capture.PNG)
+![](/assets/screen/Capture2.PNG)
+![](/assets/screen/Capture3.PNG)
+![](/assets/screen/Capture4.PNG)
 
